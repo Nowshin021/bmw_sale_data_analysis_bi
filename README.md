@@ -1,7 +1,39 @@
+#Dataset_overview
+
+This dataset contains information about various cars, likely from a car dealership or a sales platform. Each row represents a different car, and the columns provide specific details about each vehicle.
+
+Dataset Explanation
+Model: This column identifies the specific car model, such as X6, i8, 5 Series, and M3.
+
+Year: The manufacturing year of the car is provided here.
+
+Region: This indicates the geographical sales region, which in this case is consistently North America.
+
+Color: The car's exterior color is listed, with all entries showing Red.
+
+Fuel_Type: The type of fuel the car uses is specified, which is uniformly Diesel across the dataset.
+
+Transmission: This column describes the type of transmission, with all cars having an Automatic transmission.
+
+Engine_Size_L: This is the size of the car's engine, measured in liters.
+
+Mileage_KM: The total distance the car has traveled, in kilometers.
+
+Price_USD: The selling price of the car in US dollars.
+
+Sales_Volume: This represents the number of units sold for that specific model.
+
+Sales_Classification: The sales performance is categorized, with all entries being Low.
+
+engine size group: The engine size is grouped into categories like Small, Medium, and Large.
+
+regional_sale_status: This column indicates the sales status within the region, with all entries showing LOW Sale Region.
+
+
 # bmw_sale_data_analysis_bi
 Power Bi Data analysis on BMW Sales over the  years In Different Regions.
 
-# Region Wise Sale analysis 
+#Region Wise Sale analysis 
 <img width="1297" height="721" alt="image" src="https://github.com/user-attachments/assets/747a8620-6b45-4b56-907f-d566e1b5bbf1" />
 
 # Model Wise Sale Analysis
